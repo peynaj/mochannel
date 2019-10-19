@@ -1,0 +1,9 @@
+.idea/
+env/
+/__pychach__/
+*.pyc
+
+mochannel/settings.py
+
+db.sqlite3
+media/
